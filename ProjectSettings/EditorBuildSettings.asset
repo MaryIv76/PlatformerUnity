@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d71a04c6bc0cc7c4ebc020ec28ccf34c
+  - enabled: 1
+    path: Assets/Scenes/Plot1Scene.unity
+    guid: 559531f3cdeedef428f815b118237d1d
+  - enabled: 1
+    path: Assets/Scenes/Rules1Scene.unity
+    guid: 73ab2e3f4b282f144bd018eee40e66b2
+  - enabled: 1
+    path: Assets/Scenes/Plot2Scene.unity
+    guid: 46e30fe2fc1b5ff4593a2979a072d2ed
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: 282e715119b672c4fb1df6406f186a99
+  - enabled: 1
+    path: Assets/Scenes/Rules2Scene.unity
+    guid: a13e9ac90fb59144dbf6e2c12918b64f
+  - enabled: 1
+    path: Assets/Scenes/LaddersScene.unity
+    guid: d69ec46b8f91c694aacd50c2a49f7e58
+  - enabled: 1
+    path: Assets/Scenes/Rules3Scene.unity
+    guid: 267ce4ac08e03c74e9e1bebc90c579cf
+  - enabled: 1
+    path: Assets/Scenes/OrcsScene.unity
+    guid: 555335c0ec8fd6f46b7ee593802e9e71
+  - enabled: 1
+    path: Assets/Scenes/Rules4Scene.unity
+    guid: d42baa90996e2004092ba0aff5ee8952
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: 4c9246f113e2ef54599773d4d2d8fe42
+  - enabled: 1
+    path: Assets/Scenes/Rules5Scene.unity
+    guid: 1fb2341c46326704a97e5b4c28506cdc
+  - enabled: 1
+    path: Assets/Scenes/EndGameScene.unity
+    guid: 5059400f518f54d4f9404f807da69f5b
+  m_configObjects: {}
